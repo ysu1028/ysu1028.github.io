@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* 2023.09-Now: Postdoc researcher at Ecole des Ponts ParisTech (ENPC), collaborating with Axel Parmentier and Antoine Desir.
+* 2024.09-Now: Associate professor at Université de Lille, Inria Inocs team
+* 2023.09-2024.09: Postdoc researcher at Ecole des Ponts ParisTech (ENPC), collaborating with Axel Parmentier and Antoine Desir.
 * 2019.09-2023.07: Ph.D in OR at CentraleSupélec, supervised by Jakob Puchinger and co-supervised by  Nicolas Dupin. Thesis: [Heuristic and Exact Algorithms for the Electric Autonomous Dial-A-Ride Problem](https://www.theses.fr/s253815).
 * 2022.05-2022.07: Visiting doctoral researcher at Institute of Production and Logistics Management at the Johannes Kepler University Linz, collaboration with Sophie. N. Parragh.
 * 2016.09-2019.06: M.S. at Southwest Jiaotong University, Master’s Degree, majored in transportation planning and management.
