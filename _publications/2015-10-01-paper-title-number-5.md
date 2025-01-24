@@ -1,7 +1,7 @@
 ---
-title: "A Column Generation Approach for the Electric Autonomous Dial-a-Ride Problem"
-collection: preprints
+title: "A Branch-and-Price algorithm for the electric autonomous Dial-A-Ride Problem"
+collection: Journal arcticle
 venue: 'Transportation Research Part B: Methodological'
-paperurl: 'https://arxiv.org/pdf/2206.13496.pdf'
-citation: 'Yue. Su, Nicolas. Dupin, Sophie. N. Parragh and J. Puchinger. (2022). &quot;A Column Generation Approach for the Electric Autonomous Dial-a-Ride Problem.&quot; <i>Transportation Research Part B: Methodological</i>, under review.'
+paperurl: 'https://doi.org/10.1016/j.trb.2024.103011'
+citation: 'Yue. Su, Nicolas. Dupin, Sophie. N. Parragh and J. Puchinger. (2024). &quot;A Branch-and-Price algorithm for the electric autonomous Dial-A-Ride Problem.&quot; <i>Transportation Research Part B: Methodological</i>, 186: 103011.'
 ---
