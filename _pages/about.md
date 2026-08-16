@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="about-section">
 
-<p class="intro-lead">I am currently an Associate Professor at Université de Lille and the <a href="https://team.inria.fr/inocs/">Inria INOCS team</a>. My research interests include heuristic, Branch-and-price, dial-a-ride problem, bi-objective optimization, revenue management, and end-to-end learning for multi-stage stochastic problem.</p>
+<p class="intro-lead">I am currently an Associate Professor at <a href="https://www.univ-lille.fr/">Université de Lille</a> and the <a href="https://team.inria.fr/inocs/">Inria INOCS team</a>. My research interests include heuristic, Branch-and-price, dial-a-ride problem, bi-objective optimization, revenue management, and end-to-end learning for multi-stage stochastic problem.</p>
 
 <section class="content-block content-block--news">
 <h2 id="news">Recent News</h2>
