@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Yue Su"
 title_separator          : "-"
 name                     : &name "Yue Su"
-description              : &description "personal description"
+description              : &description "Personal website of Yue Su, Associate Professor at Université de Lille (IUT de Lille) and the Inria INOCS team"
 url                      : https://ysu1028.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "ysu1028/ysu1028.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yue Su"
   avatar           : "profile.png"
-  bio              : "PostDoc researcher on Operations Research and Machine Learning"
-  location         : "Paris"
+  bio              : "Associate Professor, Université de Lille (IUT de Lille · Inria INOCS)"
+  location         : "Lille, France"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=T9-wAKEAAAAJ&hl=zh-CN&oi=sra"
-  email            : "yue.su@enpc.fr"
+  email            : "yue.su@univ-lille.fr"
   researchgate     : "https://www.researchgate.net/profile/Su-Yue-3"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/yue-su-6400a3151/"
+  linkedin         : "yue-su-6400a3151"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-9285-9397"
   pinterest        :
   soundcloud       :
