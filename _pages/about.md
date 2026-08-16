@@ -9,7 +9,7 @@ redirect_from:
 
 <div class="about-section">
 
-<p class="intro-lead">I am an Associate Professor at <a href="https://iut.univ-lille.fr/les-departements/departement-informatique/les-formations">Université de Lille (IUT de Lille)</a> and the <a href="https://team.inria.fr/inocs/">Inria INOCS team</a>. My research interests include building hybrid pipelines between <em>Machine Learning (ML)</em> and <em>Combinatorial Optimization</em> to predict fast and high-quality solutions for complicated OR problems, and multi-objective optimization on hard mixed integer problems. Further interests include OR optimization algorithms (e.g., warehouse optimization), DARP, revenue management, and stochastic optimization.</p>
+<p class="intro-lead">I am currently an Associate Professor at Université de Lille and a researcher at the <a href="https://www.cristal.univ-lille.fr/">CRIStAL laboratory</a>, working with the <a href="https://team.inria.fr/inocs/">INOCS team</a>. My research interests include heuristic, Branch-and-price, dial-a-ride problem, bi-objective optimization, revenue management, and end-to-end learning for multi-stage stochastic problem.</p>
 
 <section class="content-block content-block--news">
 <h2 id="news">Recent News</h2>
